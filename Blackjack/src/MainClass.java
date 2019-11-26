@@ -14,6 +14,7 @@ public class MainClass {
 		table.play();
 		
 		System.out.println("END OF GAME");
+		
 	}
 
 }
